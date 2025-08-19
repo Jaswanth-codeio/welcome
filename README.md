@@ -10,14 +10,13 @@ A passionate developer building my skills in full-stack development through hand
 ## 📂 Project Categories
 
 ### 🌐 Static & Responsive Websites
-
+- [Favorite Cricketer](https://github.com/Jaswanth-codeio/favorite_cricketer) - A tribute page built with HTML and CSS.
+- [COVID Awareness](https://github.com/Jaswanth-codeio/covid) - An informational website about COVID-19 precautions.
 
 ### ⚛️ React Applications
 
-
 ### 🍃 Spring Boot APIs
 
-
-
+---
 
 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jaswanthdadi/)!
