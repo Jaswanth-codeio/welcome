@@ -12,7 +12,7 @@ A passionate developer building my skills in full-stack development through hand
 ### 🌐 Static & Responsive Websites
 - [Favourite Cricketer](https://github.com/Jaswanth-codeio/favourite_cricketer) - A tribute page built with HTML and CSS.
 - [COVID Awareness](https://github.com/Jaswanth-codeio/covid) - An informational website about COVID-19 precautions.
-
+- [PODCAST Awareness](https://github.com/Jaswanth-codeio/podcast) - An informational website about differnet podcasts.
 ### ⚛️ React Applications
 
 ### 🍃 Spring Boot APIs
